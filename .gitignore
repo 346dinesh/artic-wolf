@@ -1,0 +1,13 @@
+.idea
+*.iml
+.vscode/*
+cover.out
+gitShow.txt
+**/.DS_Store
+*.DS_Store
+test_report.json
+
+# .env
+
+__debug_bin
+__debug_bin*
